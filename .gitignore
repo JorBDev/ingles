@@ -1,0 +1,6 @@
+// archivos que git no debe tener en cuenta
+
+node_modules
+dist
+.env
+media/*
